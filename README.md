@@ -1,1 +1,1 @@
-# electronic-meal-ordering-system-spring-mvc
+# spring-mvc
